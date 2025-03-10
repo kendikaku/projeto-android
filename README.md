@@ -14,8 +14,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
-- **Frameworks/Bibliotecas (se houver)**
 - **GitHub Pages** (para hospedagem)
 
 ## 🛠️ Como rodar o projeto localmente
