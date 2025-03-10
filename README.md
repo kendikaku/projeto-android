@@ -32,15 +32,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```
 projeto-android/
-│-- index.html
-│-- style.css
-│-- script.js
-│-- assets/
 │   ├── images/
-│   ├── icons/
+│   ├── style/
 │   ├── fonts/
-│-- docs/
 │-- README.md
+│-- LICENSE
+│-- index.html
 ```
 
 ## ✨ Contribuição
